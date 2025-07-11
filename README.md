@@ -1,6 +1,6 @@
-# OSINT Toolkit App
+# Scouter - OSINT Toolkit App
 
-A Flutter-based Open Source Intelligence (OSINT) toolkit for cybersecurity professionals and enthusiasts. This cross-platform application allows users to gather intelligence on IP addresses, domains, and email addresses using various free and open-source APIs.
+A Flutter-based Open Source Intelligence (OSINT) toolkit. This cross-platform application allows users to gather intelligence on IP addresses, domains, and email addresses using various free and open-source APIs.
 
 ## Features
 
@@ -12,8 +12,6 @@ A Flutter-based Open Source Intelligence (OSINT) toolkit for cybersecurity profe
 - **History Tracking**: Save and review previous lookups
 
 ## Screenshots
-
-*Add screenshots of your app here*
 
 ## Getting Started
 
