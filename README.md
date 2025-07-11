@@ -23,7 +23,7 @@ A Flutter-based Open Source Intelligence (OSINT) toolkit. This cross-platform ap
   - [Shodan](https://shodan.io) (for IP lookups)
   - [HaveIBeenPwned](https://haveibeenpwned.com/API/v3) (for email breach checks)
   - [WHOIS API](https://whois.vu) (for domain information)
-  - [AbuseIPDB](https://abuseipdb.com) (optional, for IP reputation)
+  - [AbuseIPDB](https://abuseipdb.com) (for IP reputation)
 
 ### Installation
 
